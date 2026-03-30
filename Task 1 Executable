@@ -1,0 +1,2 @@
+chmod +x sample1.py
+./sample1.py
