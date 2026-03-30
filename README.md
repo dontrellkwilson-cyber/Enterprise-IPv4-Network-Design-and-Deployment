@@ -48,7 +48,10 @@ Making a Python Script Executable:  <br/>
  
 <p align="center">
   <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/25620c12-f8ef-4388-8476-85532cbd1df0" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <img width="325" height="400" alt="Image" src="https://github.com/user-attachments/assets/dec8850f-bffb-4a3a-b36e-60c255b85ad2" /> &nbsp;&nbsp;&nbsp;&nbsp; <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/4426caae-ddf5-435d-b99d-c2e909b5ace0" /> 
+  <br><br>
+  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/dec8850f-bffb-4a3a-b36e-60c255b85ad2" /> 
+  <br><br>
+  <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/4426caae-ddf5-435d-b99d-c2e909b5ace0" /> 
  <br><br>
 </p>
 
@@ -65,8 +68,9 @@ Making a Python Script Executable:  <br/>
 Working with Python Operators: <br/>
 
 <p align="center">
- <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/60851a56-e013-458f-b0fb-9c6df602d840" />
- &nbsp;&nbsp;&nbsp;&nbsp; <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/a5e614ba-005c-4849-ac73-31b500457871" />
+ <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/60851a56-e013-458f-b0fb-9c6df602d840" />
+  <br><br>
+ <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/a5e614ba-005c-4849-ac73-31b500457871" />
  <br><br>
 </p>
 
@@ -81,7 +85,8 @@ Working with Python Operators: <br/>
 Python Variables and User Input:  <br/>
 
 
- <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b2b4ff6d-ee59-4f07-a2ee-ecb707644403" /> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/b2b4ff6d-ee59-4f07-a2ee-ecb707644403" />
+ <br><br>
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/83bfab8b-88e4-44f0-aa40-b291b9ae68ec" />
  
  **` Tasks Completed `**
@@ -96,7 +101,9 @@ Python Variables and User Input:  <br/>
 Python Conditional Statements (If, Elif, Else):<br/>
 
 
- <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/067b2f3a-03c5-49c1-9c8c-439711eb60eb" /> &nbsp;&nbsp;&nbsp;&nbsp; <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/989470c0-23be-4a76-9389-e0a9ccfe2e56" />
+ <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/067b2f3a-03c5-49c1-9c8c-439711eb60eb" />
+ <br><br>
+ <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/989470c0-23be-4a76-9389-e0a9ccfe2e56" />
  <br><br>
 
    
